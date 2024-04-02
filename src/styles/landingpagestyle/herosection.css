@@ -1,0 +1,261 @@
+.container-main-herosection{
+    width: 100%; 
+    height: 1200px;
+}
+.container-section1{
+    height: 400px;
+    width: 100%;
+}
+.container-section2{
+    height: 300px; 
+    width: 100%;
+}
+.container-section3{
+    height: 400px;
+    width: 100%;
+}
+
+.container-second-img{
+    position: absolute;
+    height: auto;
+    z-index: 2;
+    top: 10px; 
+    left: 10px; 
+    width: 90px;
+    height: 90px;
+}
+.container-third-img{
+    position: absolute;
+    height: auto;
+    z-index: 3;
+    bottom: 10px; 
+    right: 10px; 
+    width: 90px;
+    height: 90px;
+}
+
+
+/* section1 */
+.container-first-section-content{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 350px;
+    overflow: visible;
+}
+
+.container-left-text-hero1{
+   
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+
+}
+.container-right-img{
+    position: relative;
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+
+}
+.container-first-img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+   
+}
+.container-img-ellipse{
+    width: 100%;
+    height: 100%;
+}
+.container-left-text-h1{
+    height: 20px;
+    font: Rubik;
+    color: #010F1C;
+
+}
+.container-left-text-p{
+    height: 60px;
+    margin-top: 130px;
+    font: Inter;
+    color: #333333;
+}
+.container-btn-get{
+    height: 40px;
+     margin-top: 60px;
+     border-radius: 20px;
+     border-style: none;
+     background-color: #2F80ED;
+     color: #FFFFFF;
+     font: Inter;
+}
+.container-left-span-section1-1{
+    font: Poppins;
+    color: #2F80ED;
+
+}
+.container-left-span-section1-2{
+    font: Poppins;
+    color: #2F80ED;
+
+}
+
+
+/* section 2.....*/
+
+.container-section2{
+    width: 100%;
+
+}
+.container-section2-h1{
+    text-align: center;
+
+}
+.container-section2-main-div{
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    /* background-color: pink; */
+
+}
+.container-section2-main-first-div{
+
+}
+.container-section2-main-second-div{
+
+}
+.container-section2-main-third-div{
+
+}
+.container-section2-img{
+    width: 80%;
+    height: 100%;
+   
+}
+
+
+
+
+
+/* section 3.....*/
+
+
+.container-section3-h1{
+   
+    text-align: center;
+
+}
+.container-section3-main-div{
+    display: flex;
+    
+    height: 300px;
+    margin-bottom: 50px;
+    justify-content: center;
+    width: 100%; 
+   
+
+}
+
+
+
+.container-section3-main-first-div{
+  
+    width: 20%;
+}
+
+.container-section3-first-rap{
+   
+    width: 30%;
+    height: 100%;
+    overflow: hidden;
+}
+.container-section3-main-second-div{
+    width: 20%;
+    height: 100%;
+
+}
+.container-section3-main-third-div{
+    width: 20%;
+    height: 100%;
+    
+}
+.container-rice-bowl-img{
+    display: flex;
+    height: 30px; 
+    width: 100%;
+    background-color: #2F80ED;
+
+}
+.container-soup-stew-img{
+    display: flex;
+    height: 30px; 
+    width: 100%;
+    margin-top: 30px;
+  
+}
+.container-grill-rosted-img{
+    display: flex;
+    height: 30px; 
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.container-raw-foods-img{
+    display: flex;
+    height: 30px; 
+    width: 100%;
+    margin-top: 30px;
+
+}
+.container-section3-img1{
+    max-width: 100%;
+    height: 100%;
+}
+.container-section3-img2{
+    max-width: 100%;
+    height: 100%;
+}
+
+.container-section3-parag-1{
+    margin-top: 5px;
+    padding-left: 5px;
+
+}
+.container-section3-parag-2{
+    margin-top: 5px;
+    padding-left: 5px;
+
+}
+.container-section3-parag-3{
+    margin-top: 5px;
+    padding-left: 5px;
+
+}
+.container-section3-parag-4{
+    margin-top: 5px;
+    padding-left: 5px;
+
+}
+.container-section3-image-1{
+    margin-top: 5px;
+    max-width: 100%;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+.container-section3-image-2{
+    margin-top: 5px;
+    max-width: 100%;
+}
+.container-section3-image-3{
+    margin-top: 5px;
+    max-width: 100%;
+}
+.container-section3-image-4{
+    margin-top: 5px;
+    max-width: 100%;
+}
+
+
+

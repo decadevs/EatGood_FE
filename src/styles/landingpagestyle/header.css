@@ -1,0 +1,109 @@
+.container-main-header{
+    width: 100%;
+    height: 78px;
+}
+.container-main-header-content{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.container-left-content{
+    display: flex;
+    width: 18%;
+    height: 100%;
+    
+}
+.container-left-text{
+    width: 80%;
+    height: 100%;
+}
+.container-left-text-header-p{
+ margin-top: 2px;
+ color: #2F80ED;
+ font: Crimson Pro;
+
+}
+
+.container-left-logo-image{
+    width: 20%;
+    height: 100%;
+}
+.container-left-header-img1{
+    max-width: 100%;
+
+}
+
+.container-right-content{
+    display: flex;
+    width: 82%;
+    height: 100%;
+}
+.container-right-list-menu{
+    width: 87%;
+    height: 90%;
+}
+.container-right-navigation{
+    width: 100%;
+    height: 80%;
+
+}
+
+ 
+.container-list-menu-ul{
+   max-width: 100%; 
+     display: flex;    
+       
+        
+} 
+.container-right-signup-button-div{
+    width: 13%;
+    height: 90%;
+}
+.container-right-signup-button{
+    margin-top: 16px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #2F80ED;
+
+}
+
+.container-list-services{
+    margin-left: 10px;
+    list-style: none;
+    width: 10%;
+}
+.container-list-home{
+     margin-left: 0px; 
+    width: 20%; 
+    list-style: none;
+   
+}
+.container-list-menu{
+    margin-left: 40px;
+    width: 10%;
+    list-style:none;
+    
+
+}
+.container-list-contact{
+    margin-left: 30px;
+    width: 10%;
+    list-style:none;
+}
+.container-list-contact-a{
+    text-decoration: none;
+    color: #333333;
+}
+.container-list-home-a{
+    text-decoration: none;
+    color: #333333;
+}
+.container-list-service-a{
+    text-decoration: none;
+    color: #333333;
+}
+.container-list-menu-a{
+    text-decoration: none;
+    color: #333333;
+}
