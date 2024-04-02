@@ -1,0 +1,56 @@
+.container-main-footer{
+    background-color: #2F80ED;
+    width: 100%; 
+    height: 86px;   
+}
+.container-main-footer-1{
+    width: 100%;
+
+}
+.container-main-footer-rap{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 20px;
+
+    
+    
+}
+.container-footer-p{
+    font-size: 10px;
+    width: 200px;
+    color: white;
+}
+.container-main-footer-copyright-img{
+    width: 10px;
+    height: 10px;
+    padding-top: 13px;
+    
+}
+.container-footer-right-content{
+    display: flex;
+    margin-right: 50px;
+   
+
+}
+.container-footer-left-content{
+    padding-top: 10px;
+
+
+}
+.container-main-footer-twitter-img{
+
+}
+.container-main-footer-facebook-img{
+    padding-left: 6px;
+
+}
+.container-main-footer-instagram-img{
+    padding-left: 6px;
+
+}
+.container-main-footer-linkedin-img{
+    padding-left: 6px;
+
+}
+
